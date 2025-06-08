@@ -135,7 +135,7 @@ docker rm -f financial-forecast
 ## Tech Stack
 - **ML/AI**: PyTorch, scikit-learn, ARCH
 - **API**: FastAPI, Uvicorn
-- **Data**: Polygon.io API, yfinance
+- **Data**: Polygon.io API
 - **Deployment**: Docker
 
 ## Model Performance
